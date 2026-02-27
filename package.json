@@ -1,0 +1,12 @@
+{
+  "name": "servidor-holamundo",
+  "version": "1.0.0",
+  "description": "Servidor básico en Node.js que responde con Hola Mundo",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "guilleOne",
+  "license": "ISC"
+}
