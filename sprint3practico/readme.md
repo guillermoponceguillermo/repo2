@@ -6,3 +6,4 @@
 //*git commit -m "aqui va un msjs" para subir 
 //*git push por ultimo y sube todo con la contrasenia antes creada en la llave
 //*por ultimo actualizamos nuestro repo en github y estaran los archivos nuevos o modificados. 
+//* tambien se pueden crear archivos, carpetas o gnerar datos en la pc y se subiran en el repositorio o de manera automatica o nosotros con el metodo antes mencionado.
