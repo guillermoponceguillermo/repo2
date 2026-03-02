@@ -28,8 +28,8 @@ server.listen(port, hostname, () => {       (aqui esta el server encendido escuc
 
 *// aqui creo el archivo package.jason que sirve para importar 
 Propiedad	Función
-name	El nombre de tu proyecto (sin espacios).
-version	El número de versión actual.
+name	server.js.
+version	1.0.0.
 type": "module	¡Esta es la clave! Le dice a Node: "Usa el estándar moderno de JavaScript 
 (donde usamos import y export)". Sin esto, el código que me pasaste fallará.
 main	Indica cuál es el archivo principal que arranca todo.
@@ -38,7 +38,7 @@ su codigo seria asi >
   "name": "mi-primer-servidor",
   "version": "1.0.0",
   "type": "module",
-  "main": "app.js"
+  "main": "server.js" aqui use server 
 }
 para que sirve: 
 Ese archivo es el corazón de cualquier proyecto en Node.js. 
